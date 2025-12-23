@@ -22,7 +22,7 @@ public class Day1Test {
 			String nik = lik.findElement(By.xpath("//td[normalize-space()='Chrome']//following-sibling::*[(contains(text(),\"%\"))]")).getText();
 			System.out.println(nik);
 		}
-		
+		System.out.println("git test");
 	}
 
 }
