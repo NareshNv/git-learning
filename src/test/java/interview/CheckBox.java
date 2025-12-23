@@ -39,6 +39,7 @@ public class CheckBox extends BrowserInit {
 			System.out.println(allDropvalues.getText());
 		}
 		driver.quit();
+		System.out.println("Git push pull practice");
 	}
 
 }
